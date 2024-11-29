@@ -1,0 +1,14 @@
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.AssemblyInfoInputs.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.AssemblyInfo.cs
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.csproj.CoreCompileInputs.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/net8.0/ConsoleApp11
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/net8.0/ConsoleApp11.deps.json
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/net8.0/ConsoleApp11.runtimeconfig.json
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/net8.0/ConsoleApp11.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/net8.0/ConsoleApp11.pdb
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/refint/ConsoleApp11.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.pdb
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ConsoleApp11.genruntimeconfig.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/net8.0/ref/ConsoleApp11.dll
