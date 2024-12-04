@@ -1,0 +1,14 @@
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/bin/Debug/net8.0/ConsoleApp27
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/bin/Debug/net8.0/ConsoleApp27.deps.json
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/bin/Debug/net8.0/ConsoleApp27.runtimeconfig.json
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/bin/Debug/net8.0/ConsoleApp27.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/bin/Debug/net8.0/ConsoleApp27.pdb
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.AssemblyInfoInputs.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.AssemblyInfo.cs
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.csproj.CoreCompileInputs.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/refint/ConsoleApp27.dll
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.pdb
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ConsoleApp27.genruntimeconfig.cache
+/home/tabrez-dev/RiderProjects/ConsoleApp27/ConsoleApp27/obj/Debug/net8.0/ref/ConsoleApp27.dll
